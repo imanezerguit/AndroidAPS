@@ -642,7 +642,7 @@
     <!-- About -->
     <string name="cta_dont_kill_my_app_info">Don\'t kill my app?</string>
     <string name="fabric_upload_disabled">Crash logs upload disabled!</string>
-    <string name="about_link_urls">\n\nDocumentation:\nhttps://wiki.aaps.app\n\nFacebook:\nhttps://www.facebook.com/groups/AndroidAPSUsers</string>
+    <string name="about_link_urls">\n\nDocumentation:\nhttps://wiki.aaps.app\n\nBuilt by : Imane Zerguit\nFacebook : https://www.facebook.com/imane.zerguit\n\nA young woman who, since her earliest years, has been reading, researching, experimenting, and engineering her way through diabetes — alone and on her own terms.\n\nFor us diabetics, the answer lies in knowledge : read, dig into research, gather the facts, then test and choose what will carry you through this lifelong journey.\n\nUne jeune femme qui, depuis ses plus jeunes années, explore, recherche, expérimente et construit ses propres solutions en silence face au diabète — à sa façon.\n\nPour nous, diabétiques, la clé est le savoir : lire, chercher, tester et trancher sur ce qui accompagnera notre voyage.\n\niOS : Trio, Loop, iAPS, Xdrip iOS\nAndroid : AAPS, Xdrip+</string>
 
     <plurals name="days">
         <item quantity="one">%1$d day</item>
