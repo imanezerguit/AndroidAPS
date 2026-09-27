@@ -357,6 +357,11 @@ jobs:
 
           echo "🎉 APKs successfully uploaded to Google Drive!"
 
+          - name: Upload APK
+      uses: actions/upload-artifact@v3
+      with:
+        name: AAPS-APK
+        path: app/build/outputs/apk/fullRelease/
   # Configuration: Threshold-based cleanup
   # Clean up only occurs when total runs exceed: keep_runs + keep_threshold (e.g., 20 + 5 = 25)
   cleanup:
